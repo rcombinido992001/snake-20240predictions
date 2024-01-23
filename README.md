@@ -1,6 +1,6 @@
-# snake-20240-predictions
+# snake-2024-predictions
 #### snake 
-!https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2024/01/11/0fc55ba1-8250-4522-bfa0-deb032ebaa99_5db5b373.jpg 
+![snake](https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2024/01/11/0fc55ba1-8250-4522-bfa0-deb032ebaa99_5db5b373.jpg) 
 **lucky number** 3,8; 
 **lucky color** green; 
 **element** jade; 
